@@ -1,0 +1,8 @@
+{
+    "agent_id":"E8kwnM9PZY/lrJnB30kjBi2FWo4=",
+    "team_id":"5EVyETIzJUr3XdVg4XHUqOd4Xh0=",
+    "subnet":[
+        "172.16.90.0/24",
+        "192.168.1.0/24"
+    ]
+}
